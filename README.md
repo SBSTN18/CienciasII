@@ -19,6 +19,5 @@ Repositorio destinado al almacenamiento y organización de los trabajos, tallere
 
 En este repositorio se irán subiendo las diferentes actividades realizadas durante el semestre, incluyendo material de clase, ejercicios prácticos, talleres y proyectos asignados.
 
----
+
 Universidad Distrital Francisco José de Caldas
-```
