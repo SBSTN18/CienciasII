@@ -6,7 +6,7 @@ Repositorio destinado al almacenamiento y organización de los trabajos, tallere
 
 **Simar Herrera**
 
-## Integrantes
+## Integrantes -- Grupo 5
 
 | Nombre | Código |
 |---------|---------|
