@@ -8,7 +8,7 @@ public class GeneradorPseudoaleatorio {
     private int semillaActual;
 
     //El valor inicial (semilla)
-    public MiGeneradorPseudoaleatorio(int semillaInicial) {
+    public GeneradorPseudoaleatorio(int semillaInicial) {
         this.semillaActual = semillaInicial;
     }
 
